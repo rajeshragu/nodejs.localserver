@@ -1,0 +1,13 @@
+{
+	"content": [
+		{
+			"name":"Pepsi",
+			"country": "India"
+		},
+		{
+			"name":"Coke",
+			"country": "US"
+		}
+	],
+	"totalResult": 2
+}
